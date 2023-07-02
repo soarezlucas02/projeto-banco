@@ -1,0 +1,20 @@
+{
+  "name": "projetobanco",
+  "version": "1.0.0",
+  "description": "projeto banco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soarezlucas02/projeto-banco.git"
+  },
+  "author": "Lucas",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/soarezlucas02/projeto-banco/issues"
+  },
+  "homepage": "https://github.com/soarezlucas02/projeto-banco#readme"
+}
