@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/soarezlucas02/projeto-banco/issues"
   },
-  "homepage": "https://github.com/soarezlucas02/projeto-banco#readme"
+  "homepage": "https://github.com/soarezlucas02/projeto-banco#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
