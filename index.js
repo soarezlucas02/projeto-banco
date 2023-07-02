@@ -16,5 +16,6 @@ contaCorrenteLucas.depositar(100)
 contaCorrenteLucas.transferir(50,conta2)
 console.log(contaCorrenteLucas)
 console.log(conta2)
+console.log(ContaCorrente.numeroDeContas)
 
 //const valorDepositado = contaCorrenteLucas.depositar(100);
